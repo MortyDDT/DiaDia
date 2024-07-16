@@ -1,0 +1,11 @@
+Stanze: Biblioteca, Aula N10, Aula N11, Atrio, Laboratorio Campus, Bagno, Laboratorio IA, Aula N9, Aula N8
+Stanze Magiche: Laboratorio IA
+Stanze Buie: Aula N9 lanterna
+Stanze Bloccate: Aula N8 chiave est
+Inizio: Atrio
+Vincente: Biblioteca
+Attrezzi: osso 1 Atrio, chiave 1 Aula N9, piombo 10 Laboratorio Campus, circuito 1 Laboratorio Campus, circuito 1 Laboratorio IA
+Maghi: Gandolfo spada 2 Aula N11
+Streghe: Gandolfetta Aula N10
+Cani: Bob osso lanterna 3 Laboratorio Campus
+Uscite: Atrio nord Biblioteca, Atrio ovest Aula N11, Atrio sud Aula N10, Aula N10 est Aula N8, Aula N10 sud Laboratorio Campus, Laboratorio Campus ovest Laboratorio IA, Laboratorio Campus est Aula N9, Aula N8 sud Aula N9, Aula N8 est Bagno
